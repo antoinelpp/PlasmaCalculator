@@ -1,7 +1,5 @@
 astropy
 numpy
-matplotlib
-astroquery
 IPython
 scipy
 ipywidgets
