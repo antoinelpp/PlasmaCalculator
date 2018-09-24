@@ -1,5 +1,4 @@
 astropy
 numpy
 IPython
-scipy
 ipywidgets
