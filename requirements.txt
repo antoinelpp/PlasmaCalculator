@@ -4,3 +4,4 @@ matplotlib
 astroquery
 IPython
 scipy
+ipywidgets
